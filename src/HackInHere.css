@@ -1,0 +1,8 @@
+.container{
+    background-color: aliceblue;
+    border-color: black;
+    border-width: 5px;
+    border-style: dashed;
+    height: 100px;
+    width: 100%;
+}
