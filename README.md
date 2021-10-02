@@ -1,3 +1,7 @@
+# Help me build a squad remotr Retro app
+
+What would you want to use in an application designed to help run retros remotely? Feel free to add it here and practice your React skills for HacktoberFest 2021!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
